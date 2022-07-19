@@ -1,12 +1,15 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Milton Chess Club"
+
 subtitle: |
   Milton Chess Club is open to all members of Milton, Alpharetta, Roswell and surrounding communities.
+
 content : |
-  Our focus is on introducing chess to <strong>kids</strong>.  We have a <strong>homeschool</strong> group that will be meeting this fall at the milton library. 
+  Our focus is on introducing chess to <strong>kids</strong>.  We have a <strong>homeschool</strong> group that will be meeting this fall at the milton library. Contact <a href="mailto:stephen@miltonchessclub.com">stephen@miltonchessclub.com</a> for more information.
+
 button:
-  label : "Join us"
+  label : "Homeschool Meetup"
   link : "#first"
 image : "images/queens_gambit.png"
 
