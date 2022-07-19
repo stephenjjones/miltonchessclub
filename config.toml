@@ -4,7 +4,8 @@
 
 title = "Milton Chess Club"
 theme = "hugo-story"
-baseURL = "https://stephenjjones.github.io/miltonchessclub"
+## baseURL = "https://stephenjjones.github.io/miltonchessclub"
+baseURL = "https://miltonchessclub.com"
 
 
 ## -----------------------------------------------
