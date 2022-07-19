@@ -1,0 +1,29 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Milton Chess Club"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Milton Chess Club of Georgia"
+  logo = "images/queens_gambit.png"
+  favicon = true
+
+[Params.social]
+  twitter = "https://twitter.com/miltonchessclub"
+  email = "stephen@miltonchessclub.com"
+  instagram = "https://www.instagram.com/miltonchessclub/"

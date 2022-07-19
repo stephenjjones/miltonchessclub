@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Weekly Homeschool Meetups at the Milton Library"
+content: |
+  We will be meeting this Fall at the Milton Library.  The meetup is geared towards elementary-aged kids (organizer has a 6 year old), but is open to all.  Chess is a great activity for a wide age-range of kids to enjoy together. 
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/Milton-Library.jpg"
