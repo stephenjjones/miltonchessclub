@@ -2,6 +2,9 @@
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
 title : "Weekly Homeschool Meetups at the Milton Library"
+event: <p>1st meetup - <strong>Thurs Aug 18th from 1-2:30pm</strong> at the Milton Library.</p>
+  <p>2nd meetup - <strong>Thurs Aug 25th from 1-2:30pm</strong> at the Milton Library.</p>
 content: |
   We will be meeting this Fall at the Milton Library.  The meetup is geared towards elementary-age kids, but is open to all. Chess is a great activity for a wide age-range of kids to enjoy together. The organizer is a homeschool dad of two (4&1/2 year old and 6&1/2 year old). Contact <a href="mailto:stephen@miltonchessclub.com">stephen@miltonchessclub.com</a> for more information.
+
 image: "images/Milton-Library.jpg"
