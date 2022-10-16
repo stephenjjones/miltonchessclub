@@ -2,9 +2,9 @@
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
 title : "Weekly Homeschool Meetups at the Milton Library"
-event: <p>1st meetup - <strong>Thurs Aug 18th from 1-2:30pm</strong> at the Milton Library.</p>
-  <p>[CANCELED] 2nd meetup - <strike>Thurs Aug 25th from 1-2:30pm</strike> at the Milton Library.</p>
+event: 
+  <p><strong>Homeschool meetup on Thursdays from 1-2:30pm</strong> at Scottsdale Farms.  Email stephen@miltonchessclub.com for updates or join our <a href="https://www.facebook.com/groups/1267508067404991">Facebook group</a>.</p>
 content: |
-  We will be meeting this Fall at the Milton Library.  The meetup is geared towards elementary-age kids, but is open to all. Chess is a great activity for a wide age-range of kids to enjoy together. The organizer is a homeschool dad of two (4&1/2 year old and 6&1/2 year old). Contact <a href="mailto:stephen@miltonchessclub.com">stephen@miltonchessclub.com</a> for more information.
+  We will be meeting this Fall at the Scottsdale Farms and Milton Library.  The meetup is geared towards elementary-age kids, but is open to all. Chess is a great activity for a wide age-range of kids to enjoy together. The organizer is a homeschool dad of two (4&1/2 year old and 6&1/2 year old). Contact <a href="mailto:stephen@miltonchessclub.com">stephen@miltonchessclub.com</a> for more information.
 
 image: "images/Milton-Library.jpg"
