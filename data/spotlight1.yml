@@ -1,7 +1,7 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Weekly Homeschool Meetups at the Milton Library"
+title : "Weekly Homeschool Meetups"
 event: 
   <p><strong>Homeschool meetup on Thursdays from 1-2:30pm</strong> at Scottsdale Farms.  Email stephen@miltonchessclub.com for updates or join our <a href="https://www.facebook.com/groups/1267508067404991">Facebook group</a>.</p>
 content: |
